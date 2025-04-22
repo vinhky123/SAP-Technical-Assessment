@@ -13,7 +13,7 @@ This Github repository contain the solutions for problems, implemented in Python
 
 ## How to Run
 
-1. Clone the repository: `git clone [https://github.com/vinhky123/SAP-Technical-Assignment]`
+1. Clone the repository: `git clone https://github.com/vinhky123/SAP-Technical-Assignment`
 2. Foward to the directory: `cd SAP-Technical-Assignment`
 3. Run each solution: `python problem1.py`
 4. Input structure and format are clearly describe in the code
