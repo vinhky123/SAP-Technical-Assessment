@@ -45,10 +45,11 @@ def merge_sorted_arrays(arr1: list[int], arr2: list[int]) -> list[int]:
 
 
 if __name__ == "__main__":
-    print("Input format: num1 num2 num3 num4 ...")
+    print("Input format: num1 num2 num3 num4 .... \nThen hit Enter")
     arr_1 = list(map(int, input("Type array 1: ").split()))
     arr_2 = list(map(int, input("Type array 2: ").split()))
 
     output = merge_sorted_arrays(arr_1, arr_2)
 
+    print("Output: ", end="")
     print(output)

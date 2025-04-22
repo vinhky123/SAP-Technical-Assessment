@@ -32,8 +32,9 @@ def first_non_repeating(s: str):
 
 
 if __name__ == "__main__":
-    input = str(input("Type Input string: "))
+    print("Input format: This is an example string \nThen hit Enter")
+    input = str(input("Type Input: "))
 
     output = first_non_repeating(input)
 
-    print(output)
+    print("Output: " + output)
