@@ -32,7 +32,7 @@ def first_non_repeating(s: str):
 
 
 if __name__ == "__main__":
-    input = str(input("Type Input: "))
+    input = str(input("Type Input string: "))
 
     output = first_non_repeating(input)
 

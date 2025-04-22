@@ -30,7 +30,7 @@ def count_occurrences(s: str):
 
 
 if __name__ == "__main__":
-    input = str(input("Type Input: "))
+    input = str(input("Type Input string: "))
 
     output = count_occurrences(input)
 
